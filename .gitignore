@@ -1,0 +1,8 @@
+*.o
+*.d
+tun
+Makefile.bak
+__pycache__/
+*.pyc
+.vscode/
+*.pdf
